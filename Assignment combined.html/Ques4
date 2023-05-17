@@ -1,0 +1,10 @@
+Q4.List out any 3 tags we learned in this module and give brief explanation of about tags. 
+
+ANS :  (A) <h> Tag - This is used to give heading in HTML . They can be <h1> <h2> <h3> and so on .
+                                   It has an opening and and closing tag .
+       
+            (B) <p> Tag : This is used to write a paragraph and is known as paragraph tag . 
+                                   <p></p>  
+ 
+             (C) <div> Tag : Also known as division or section tag and is used to group tags to perform  
+                                     CSS and styling operations .    <div></div>

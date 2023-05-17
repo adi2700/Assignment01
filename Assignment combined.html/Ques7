@@ -1,0 +1,17 @@
+Q7. Explain in brief about nesting operators in emmet . 
+
+ANS: The nesting operators are as below :-
+   
+Child : >
+           We can use > operator to nest elements inside each other . 
+
+           Ex- div>ul>li 
+       
+Sibling: +
+
+Use + operator to place elements near each other, on the same level.
+Ex- div+p+bq
+
+Multiplication: *
+            With * operator you can define how many times element should be outputted:
+ul>li*5 

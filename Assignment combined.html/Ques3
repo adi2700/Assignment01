@@ -1,0 +1,12 @@
+Tags - Tags are the keywords on a web page that define how web browser must format and     display our web page. Almost all tags contain two parts, an opening, and a closing tag. 
+
+For example - <h1> is used for heading and is a heading tag.
+                       <li> is list tag .     <a> is link tag .
+ 
+    Elements- An HTML element is defined by a start tag, some content, and an end tag.
+ 
+For example - <p> this is paragraph </p>
+
+Attribute -An attribute is used to define the characteristics of an HTML element and is placed inside the element's opening tag. All attributes are made up of two parts − a name and a value. 
+
+ For Example - <td align="center" height="50" width="100"> Day/Period</td> 
